@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Actividad 2</string>
+    <string name="botonok">Ok</string>
+    <string name="botoncancel">Cancel</string>
+    <string name="setDate">Set Date</string>
+    <string name="fechanacimiento">Fecha Nacimiento</string>
+</resources>
